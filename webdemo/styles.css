@@ -1,4 +1,29 @@
-p {
+
+#minimap {
+  width: 25%;
+  height: ;
+  float: right;
+  font-size: 3pt;
+
+}
+
+#main {
+  float: left;
+  width: 70%;
+
+}
+
+.paraclass {
+  color: purple;
+
+}
+
+body {
   font-family: Palatino, serif;
-  font-size: 12;
+  font-size: 12pt;
+
+}
+
+body p {
+  margin-right: 20%;
 }

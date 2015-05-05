@@ -21,7 +21,7 @@ By the end of the lesson students will be able to:
 
 ## Task 1
 
-Dr. Fell provides you with an HTML version of *De Finibus Bonorum et Malorum*. 
+Dr. Fell provides you with an HTML version of *De Finibus Bonorum et Malorum*.
 He's seen someone using Sublime Text with the minimap on, and he wants exactly
 that:  "Show them the whole text in really really small font on the right side
 of the screen, and when they click on any paragraph, show it to them full-size
@@ -32,9 +32,13 @@ on the left!"
 "Oh, and so they know where they are, make sure the paragraph they are reading
 turns purple in the minimap!"
 
+this $(this)
+$(this).addClass(className)
+$(this).removeClass(className)
+
 ## Task 3
 
-"Let's put something underneath the paragph - count how many times the words
+"Let's put something underneath the paragraph - count how many times the words
 for 'good,' 'bad,' and 'pain' are used!"
 
 (And he goes into a lengthy explanation of Latin nouns, from which you take
